@@ -1,22 +1,25 @@
-name: ecolnb2021
+name: ruumianaluus
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.7
   - ipykernel=5.3.*
   - ipython=7.18.*
   - ipywidgets=7.5.*
   - jupyter=1.0.*
   - jupyterlab=2.2.*
-  - matplotlib=3.3.*
   - notebook=6.1.*
+  - matplotlib=3.3.*
   - numpy=1.19.*
   - owslib=0.20.*
   - pandas=1.1.*
   - pytables=3.6.*
-  - python=3.7.*
   - requests=2.24.*
   - scikit-learn=0.23.*
   - scipy=1.5.*
   - seaborn=0.11.*
   - urllib3=1.24.*
+  - geopandas
+  - joblib
+  - shap
