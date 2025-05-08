@@ -1,4 +1,5 @@
 **Biomassi masinõppe mudel**
 
 Jooksuta masinõppe mudeli koodi siit:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luikiris/ruumianaluus/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luikiris/ruumianaluus/main?filepath=biomass_rf.ipynb)
+
